@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1493381661699,
+            "changeTime": 1493381661699,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1493381661699,
+            "changeTime": 1493381661699,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1493381661700,
+            "changeTime": 1493381661700,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1493381661700,
+            "changeTime": 1493381661700,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1493702216716,
+            "changeTime": 1493702216716,
+            "contentHash": "d2e266430fe09c1a9a898019d01874bc5cbe30e7",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

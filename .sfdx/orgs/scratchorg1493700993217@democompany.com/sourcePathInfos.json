@@ -1,0 +1,88 @@
+[
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1493381661699,
+            "changeTime": 1493381661699,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1493381661699,
+            "changeTime": 1493381661699,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1493381661700,
+            "changeTime": 1493381661700,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork",
+        {
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1493702216716,
+            "changeTime": 1493702216716,
+            "contentHash": "d2e266430fe09c1a9a898019d01874bc5cbe30e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\SampleWork.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\SampleWork.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1493702216715,
+            "changeTime": 1493702332763,
+            "contentHash": "a35fcbb6c03cb95b0010219f76aac4fd3c712740"
+        }
+    ],
+    [
+        "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\SampleWork.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mstemp 401\\SFDX\\SampleWork\\force-app\\main\\default\\SampleWork.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 188,
+            "modifiedTime": 1493702216720,
+            "changeTime": 1493702332763,
+            "contentHash": "aaba1c5e854e3b3ea5581b7ac74c598d452ffe1c"
+        }
+    ]
+]
